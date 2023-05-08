@@ -1,10 +1,9 @@
 import java.util.Scanner;
-import static java.lang.Float.NaN;
 
 public class OutroLoop {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
-        double mediaAvaliação = 0;
+        double mediaAvaliação = 0.0;
         double nota = 0;
         int totalDeNotas = 0;
 
