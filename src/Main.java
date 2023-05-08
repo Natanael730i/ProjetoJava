@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Este é o Screen Match");
         System.out.println("Filme: Top Gam: Maverick");
 
-        Integer ano = 2022;
+        int ano = 2022;
         //Média calculada pelas 3 notas do filme
         /*
         * Comentário de mais de uma linha
@@ -16,7 +16,7 @@ public class Main {
         Filme Top Gun
         Filme de aventura com galâ dos anos 80
         Muito bom!
-        Ano de lançamento: 
+        Ano de lançamento:
         """ + ano;
         System.out.println(Sinopse);
     }
